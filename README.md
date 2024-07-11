@@ -11,6 +11,6 @@ Gnd | Gnd |
 ## LED pins
 LED Pin | Arduino Pin |
 --- | --- |
-+ | 11 |
-- | Gnd |
+| + | 11 |
+| - | Gnd |
 
