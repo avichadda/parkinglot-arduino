@@ -8,7 +8,7 @@ Trig | 9 |
 Echo | 10 |
 Gnd | Gnd |
 
-## LED pins
+## LED/Buzzer pins
 LED Pin | Arduino Pin |
 --- | --- |
 | + | 11 |
